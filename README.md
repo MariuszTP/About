@@ -8,7 +8,7 @@ I have Master of Science in Mechanical Engineering degree with more than 20 year
 
 Since two years I am programing engineer working in Python. I am hard working person, always do my best to have significant contribiution and added value to the project.  
 
-**My stock include:**
+**Skills**
 
 Django, Django REST framework, JavaScript, PostgreSQL, SQLite3, Bootstrap 5, CSS, HTML
 
