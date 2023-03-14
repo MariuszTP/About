@@ -30,7 +30,7 @@ Web development example:
 https://mariusztp127.pythonanywhere.com/
 
 Ecommerce:
-https://mariusztp123.pythonanywhere.com//
+https://mariusztp123.pythonanywhere.com/
 
 Portfolio:
 http://mariusztp126.pythonanywhere.com/
