@@ -24,7 +24,7 @@ Project management
 
 I work on web development well as data analysis, image processing and many more. 
 
-Please see some link. 
+Please visit some link. 
 
 Web development example:
 https://mariusztp127.pythonanywhere.com/
