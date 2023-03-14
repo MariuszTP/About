@@ -1,13 +1,14 @@
 <img src="https://user-images.githubusercontent.com/100483180/225116006-dbf70942-daf1-43d6-a560-8723b57767f3.PNG" height="200px" />
 
 **Hello Guys!**
-My name is Mariusz Turek
+
+**My name is Mariusz Turek**
 
 I have Master of Science in Mechanical Engineering degree with more than 20 years of experience. 
 
 Since two years I am programing engineer working in Python. I am hard working person, always do my best to have significant contribiution and added value to the project.  
 
-My stock include:
+**My stock include:**
 
 Django, Django REST framework, JavaScript, PostgreSQL, SQLite3, Bootstrap 5, CSS, HTML
 
