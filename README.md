@@ -35,6 +35,12 @@ https://mariusztp123.pythonanywhere.com//
 Portfolio:
 http://mariusztp126.pythonanywhere.com/
 
+Data analysis:
+https://github.com/MariuszTP/house-prices-analysis
+
+Scraping:
+https://github.com/MariuszTP/Beautifulsoup
+
 
 
 <!--
