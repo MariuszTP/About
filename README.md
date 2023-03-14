@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/100483180/225104455-ef0cd539-f811-4b1c-be06-3675241dc169.jpg)" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/100483180/225104455-ef0cd539-f811-4b1c-be06-3675241dc169.jpg" width="100" height="100" />
 
 Hello Guys!
 My name is Mariusz Turek
