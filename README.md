@@ -14,13 +14,15 @@ Django, Django REST framework, JavaScript, PostgreSQL, SQLite3, Bootstrap 5, CSS
 
 Pandas, NumpPy, Scikit-learn, Matplotlib, Seaborn
 
+Beautiful Soup, Selenium,
+
 Visual Studio Code, Anaconda, Jupyter Notebook,
 
 GitHub control version
 
 Project management
 
-
+I work on web development well as data analysis, image processing and many more. 
 
 
 <!--
