@@ -12,7 +12,7 @@ Since two years I am programing engineer working in Python. I am hard working pe
 
 Django, Django REST framework, JavaScript, PostgreSQL, SQLite3, Bootstrap 5, CSS, HTML
 
-Pandas, NumpPy, Scikit-learn, Matplotlib, Seaborn
+OpenCV - object detection and classification, Pandas, NumpPy, Scikit-learn, Matplotlib, Seaborn
 
 Beautiful Soup, Selenium,
 
