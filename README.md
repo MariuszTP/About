@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/100483180/225116006-dbf70942-daf1-43d6-a560-8723b57767f3.PNG" height="300px" />
+<img src="https://github.com/MariuszTP/About/assets/100483180/23ed65f9-e25b-4ef8-bd95-6aa100426797)" height="300px" />
+
 
 **Hello Guys!**
 
